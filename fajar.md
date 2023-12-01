@@ -16,6 +16,6 @@ I have also understood the importance of git.
 * *Cloning*
 * *Forking*
 ## Confusions
-* I have theoretically understood the concept of push and pull but haven't yet been able to connect my VScode with github yet. So I still have confusion if it is just pushing the commiteds changes from my PC to remote github repository, or the syncing of changes on github codespace is the same concept too? Would appreciate help understanding these further.
+* I have theoretically understood the concept of pull but haven't yet been able to connect my VScode with github yet. So I still have confusion if it is just pushing the commited changes from my PC to remote github repository, or the syncing of changes on github codespace is the same concept too? Would appreciate help understanding these further.
 * I would further like to see how to access opensource codes and explore codes from git community for practice.
 * Facing issues with cloning.
